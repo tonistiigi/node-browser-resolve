@@ -21,7 +21,7 @@
     "console-browserify": "0.1.6",
     "vm-browserify": "0.0.1",
     "crypto-browserify": "0.2.1",
-    "http-browserify": "0.1.11",
+    "http-browserify": "git://github.com/tonistiigi/http-browserify.git",
     "buffer-browserify": "0.0.5",
     "zlib-browserify": "0.0.1"
   },
